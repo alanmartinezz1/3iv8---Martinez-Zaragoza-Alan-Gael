@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import javax.swing.JOptionPane;
 
 class Primerparcial{
 
@@ -12,7 +11,7 @@ class Primerparcial{
         double binario, resultado, num1, num2;
         
     do{
-       
+        System.out.println("3IV8_MARTINEZ_ZARAGOZA_ALAN_GAEL. :))")
         System.out.println("Elija la opcion deseada: ");
         System.out.println("1.- Descuento de abono. ");
         System.out.println("2.- Decimal a binario. ");
